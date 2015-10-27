@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<libraries:Library xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:libraries="http://www.ibm.com/websphere/appserver/schemas/5.0/libraries.xmi" xmi:id="Library_20151013101613965" name="BSAD_FRAMEWORK_3" isolatedClassLoader="false">
+  <classPath>C:\Install Java\Bradesco\BSAD-3.5.9-all\Bibliotecas</classPath>
+  <classPath>C:\Install Java\Bradesco\BSAD-FiltroSeguranca</classPath>
+</libraries:Library>
